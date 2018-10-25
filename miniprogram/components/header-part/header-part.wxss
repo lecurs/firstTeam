@@ -1,0 +1,32 @@
+.title{
+  width: 100%;
+  height: 135rpx;
+  background-color: #fff;
+  padding: 60rpx 0 0 40rpx;
+  box-sizing: border-box;
+  display: flex;
+  font-size: 12pt;
+  font-weight: bold;
+}
+.nav{
+  width: 700rpx;
+  margin: 0 auto;
+  display: flex;
+}
+.navItem{
+  width: 110rpx;
+  margin-right: 40rpx;
+  display: flex;
+  flex-wrap: wrap;
+}
+.navImgs{
+  width: 110rpx;
+  height: 110rpx;
+  margin-bottom: 20rpx;
+}
+.navTitle{
+  width: 100%;
+  text-align: center;
+  font-size: 7pt;
+  color:#acacac;
+}

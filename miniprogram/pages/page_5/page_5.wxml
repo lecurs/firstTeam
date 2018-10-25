@@ -1,0 +1,41 @@
+<view class="main">
+  <header-part text="广州天福礼品卡"/>
+  <view class="middlePart">
+    <image src='../../images/imgBig.png' class="imgBig"></image>
+  </view>
+  <view>
+    <view class="cloudAndTitle">
+      <image src='../../images/cloud.png' class="cloud"></image>
+      <text class="viceTitle">天福心意卡</text>
+    </view>
+    <view class="cardsFirst">
+      <view class="cardItem">
+        <image src='../../images/ten.png' class='money'></image>
+        <view class="goodInfo">
+          <text class='goods'>10元现金券</text>
+          <text class='nowPrice'>￥9.5</text>
+          <text class='pastPrice'>￥10</text>
+        </view>
+        <text class="footerInfo">不限品类，可兑换任意商品</text>
+      </view>
+      <view class="cardItem">
+        <image src='../../images/twenty.png' class='money'></image>
+        <view class="goodInfo">
+          <text class='goods'>20元现金券</text>
+          <text class='nowPrice'>￥19</text>
+          <text class='pastPrice'>￥20</text>
+        </view>
+        <text class="footerInfo">不限品类，可兑换任意商品</text>
+      </view>
+    </view>
+    <view class="cardLast">
+      <image src='../../images/fifty.png' class='money'></image>
+      <view class="goodInfoLast">
+        <text class='goods'>50元现金券</text>
+        <text class='nowPrice'>￥47.5</text>
+        <text class='pastPrice'>￥50</text>
+      </view>
+      <text class="footerInfo">不限品类，可兑换任意商品</text>
+    </view>
+  </view>
+</view>
