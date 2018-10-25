@@ -1,0 +1,4 @@
+<view class="out">
+
+    <text class="">{{text}}</text>
+</view>

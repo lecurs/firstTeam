@@ -1,5 +1,6 @@
 {
     "usingComponents": {
-      "git-card": "../../components/git-card/git-card"
+      "git-card": "../../components/git-card/git-card",
+      "header":"../../components/header/header"
     }
 }

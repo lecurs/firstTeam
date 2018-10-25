@@ -1,0 +1,5 @@
+/* components/header.wxss */
+
+.out{
+    padding: 60rpx 20rpx;
+}

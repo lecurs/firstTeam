@@ -1,4 +1,5 @@
 <view>
+    <header text="喜士多礼品卡"></header>
     <scroll-view class=""  scroll-y="{{true}}">
         <view class="banner">
             <image class="banImg" src="../../images/cstore/cardimg.png"></image>
