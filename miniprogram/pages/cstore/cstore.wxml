@@ -1,0 +1,11 @@
+<view>
+    <view class="banner">
+        <image class="banImg" src="../../images/cstore/cardimg.png"></image>
+    </view>
+    <view class="content">
+        <view class="tit">
+        <i class="iconfont icon-xiangyun xiangyunIcon"></i>
+         <text class="">喜士多心意卡</text>
+        </view>
+    </view>
+</view>
