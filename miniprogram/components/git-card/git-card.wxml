@@ -1,0 +1,10 @@
+<view class="outsider">
+    <image class="img" src="../../images/cstore/{{imgUrl}}"></image>
+    <view class="midMsg"> 
+        <text class="">{{sum}}元现金券</text>
+        <text class="colorText">￥{{special}}</text>
+    </view>
+    <view class="miniText">
+        <text>不限品类，可兑换任意商品</text>
+    </view>
+</view>

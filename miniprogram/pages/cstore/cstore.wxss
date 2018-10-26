@@ -1,0 +1,32 @@
+/* miniprogram/pages/cstore/cstore.wxss */
+
+page{
+    background-color: white;
+}
+
+.banner{
+    padding: 20rpx;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+.banImg{
+    width: 680rpx;
+    height: 520rpx;
+}
+
+.content{
+    padding: 20rpx;
+}
+
+.xiangyunIcon{
+    color: #d44d4d;
+}
+.card{
+    height: 560rpx;
+    display: flex;
+    align-content: space-between;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
