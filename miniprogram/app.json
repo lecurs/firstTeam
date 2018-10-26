@@ -1,6 +1,11 @@
 {
   "pages": [
+<<<<<<< HEAD
     "pages/pizza/pizza",
+=======
+<<<<<<< HEAD
+    "pages/giftCard/giftCard",
+>>>>>>> 5c7fe206da50d7edf684c3dc7e1f484dfc0d414f
     "pages/index/index",
     "pages/userConsole/userConsole",
     "pages/storageConsole/storageConsole",
@@ -8,12 +13,17 @@
     "pages/addFunction/addFunction",
     "pages/deployFunctions/deployFunctions",
     "pages/chooseLib/chooseLib"
+    
+=======
+    "pages/cstore/cstore"
+>>>>>>> 52f1e178f4614016d83037282ccb1e8f4a5bf7eb
   ],
   "window": {
     "backgroundColor": "#F6F6F6",
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#F6F6F6",
     "navigationBarTitleText": "云开发 QuickStart",
-    "navigationBarTextStyle": "black"
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "custom"
   }
 }

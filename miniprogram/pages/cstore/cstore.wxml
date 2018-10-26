@@ -1,0 +1,18 @@
+<view>
+    <scroll-view class="" scroll-y="{{true}}">
+        <view class="banner">
+            <image class="banImg" src="../../images/cstore/cardimg.png"></image>
+        </view>
+        <view class="content">
+            <view class="tit">
+                <i class="iconfont icon-xiangyun xiangyunIcon"></i>
+                <text class="">喜士多心意卡</text>
+            </view>
+            <view class="card">
+                <git-card imgUrl="card10.png" sum="10" special="9.6"></git-card>
+                <git-card imgUrl="card20.png" sum="20" special="19.6"></git-card>
+                <git-card imgUrl="card50.png" sum="50" special="49"></git-card>
+            </view>
+        </view>
+    </scroll-view>
+</view>
