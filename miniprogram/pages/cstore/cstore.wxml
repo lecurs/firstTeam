@@ -1,7 +1,5 @@
 <view>
-    <header text="喜士多礼品卡"></header>
-    <my-nav></my-nav>
-    <scroll-view class=""  scroll-y="{{true}}">
+    <scroll-view class="" scroll-y="{{true}}">
         <view class="banner">
             <image class="banImg" src="../../images/cstore/cardimg.png"></image>
         </view>

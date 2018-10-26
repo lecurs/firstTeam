@@ -1,7 +1,5 @@
 {
     "usingComponents": {
-      "git-card": "../../components/git-card/git-card",
-      "header":"../../components/header/header",
-      "my-nav":"../../components/my-nav/my-nav"
+      "git-card": "../../components/git-card/git-card"
     }
 }
