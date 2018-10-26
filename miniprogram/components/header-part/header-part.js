@@ -22,8 +22,33 @@ Component({
    */
   methods: {
     toXishiduo(){
-      wx.navigateTo({
-        url: '../',
+      wx.redirectTo({
+        url: '../../pages/cstore/cstore',
+      })
+    },
+    toDQ(){
+      wx.redirectTo({
+        url: '../../pages/card/card',
+      })
+    },
+    toKFC(){
+      wx.redirectTo({
+        url: '../../pages/eatto/eatto',
+      })
+    },
+    toPizza(){
+      wx.redirectTo({
+        url: '../../pages/pizza/pizza',
+      })
+    },
+    toQuanjia(){
+      wx.redirectTo({
+        url: '../../pages/giftCard/giftCard',
+      })
+    },
+    toTianfu(){
+      wx.redirectTo({
+        url: '../../pages/page_5/page_5',
       })
     }
   }

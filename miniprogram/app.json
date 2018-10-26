@@ -1,11 +1,11 @@
 {
   "pages": [
+    "pages/cstore/cstore",
     "pages/page_5/page_5",
     "pages/card/card",
     "pages/eatto/eatto",
     "pages/giftCard/giftCard",
-    "pages/pizza/pizza",
-    "pages/cstore/cstore"
+    "pages/pizza/pizza"
   ],
  
   "window": {

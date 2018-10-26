@@ -1,4 +1,4 @@
-.title{
+.title {
   width: 100%;
   height: 135rpx;
   background-color: #fff;
@@ -8,25 +8,34 @@
   font-size: 12pt;
   font-weight: bold;
 }
-.nav{
+
+.nav::-webkit-scrollbar {
+  display: none;
+}
+
+.nav {
   width: 700rpx;
   margin: 0 auto;
   display: flex;
+  overflow: scroll;
 }
-.navItem{
+
+.navItem {
   width: 110rpx;
-  margin-right: 40rpx;
+  margin-right: 30rpx;
   display: flex;
   flex-wrap: wrap;
 }
-.navImgs{
+
+.navImgs {
   width: 110rpx;
   height: 110rpx;
   margin-bottom: 20rpx;
 }
-.navTitle{
+
+.navTitle {
   width: 100%;
   text-align: center;
   font-size: 7pt;
-  color:#acacac;
+  color: #acacac;
 }

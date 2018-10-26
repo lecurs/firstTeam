@@ -1,3 +1,5 @@
 {
-      "navigationBarTitleText": "DQ冰雪皇后礼品卡"
+  "usingComponents": {
+    "header-part": "/components/header-part/header-part"
+  }
 }

@@ -1,4 +1,5 @@
 <view>
+<header-part text="DQ冰雪皇后礼品卡"/>
   <view class='banner'>
     <image class='bg' src='../../images/cardimg/card.png'></image>
   </view>

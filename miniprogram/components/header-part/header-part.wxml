@@ -7,23 +7,23 @@
       <image class="navImgs" src="../../images/xishiduo.jpg"></image>
       <text class="navTitle">喜士多</text>
     </view>
-    <view class='navItem'>
+    <view class='navItem' bindtap='toDQ'>
       <image class="navImgs" src="../../images/DQ.jpg"></image>
       <text class="navTitle">DQ冰雪皇后</text>
     </view>
-    <view class='navItem'>
+    <view class='navItem' bindtap='toKFC'>
       <image class="navImgs" src="../../images/kfc.jpg"></image>
       <text class="navTitle">肯德基</text>
     </view>
-    <view class='navItem'>
+    <view class='navItem' bindtap='toPizza'>
       <image class="navImgs" src="../../images/pizza.jpg"></image>
       <text class="navTitle">必胜客</text>
     </view>
-    <view class='navItem'>
+    <view class='navItem' bindtap='toQuanjia'>
       <image class="navImgs" src="../../images/quanjia.png"></image>
       <text class="navTitle">全家</text>
     </view>
-    <view class='navItem'>
+    <view class='navItem' bindtap='toTianfu'>
       <image class="navImgs" src="../../images/tianfu.png"></image>
       <text class="navTitle">广州天福</text>
     </view>

@@ -1,9 +1,6 @@
 <!--miniprogram/pages/eatto/eatto.wxml-->
 <view>
-  <view class='header'>
-    <text class='head'>肯德基礼品卡</text>
-  </view>
-  <view class='scroll'></view>
+  <header-part text="肯德基礼品卡"/>
   <view class='bigPicture'>
     <image class='imgs' src='../../images/eatCard/eatCard (2).png '></image>
     <view class='cardText'>
