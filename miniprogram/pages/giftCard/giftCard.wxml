@@ -1,0 +1,55 @@
+<!--miniprogram/pages/giftCard/giftCard.wxml-->
+<view>
+<image src='../../images/wqbimages/Screenshot_2018-10-25-16-40-10_21.png' class='img1'></image>
+<view>
+  <view class='xinyi'>
+    <image src='../../images/wqbimages/Screenshot_2018-10-25-16-40-10_25.png'></image>
+    <text>全家心意卡</text>
+  </view>
+  <!-- 优惠券 -->
+  <view class='all'>
+    <view class='fiveall'>
+      <image src='../../images/wqbimages/Screenshot_2018-10-25-16-40-10_28.png' class='five'></image>
+      <view class='fives'>
+        <text>5元现金券</text>
+        <text>￥5</text>
+      </view>
+      <text>不限品类，可兑换任意商品</text>
+    </view>
+    <view class='fiveall'>
+      <image src='../../images/wqbimages/Screenshot_2018-10-25-16-40-10_30.png' class='five'></image>
+      <view class='fives'>
+        <text>10元现金券</text>
+        <text>￥10</text>
+      </view>
+      <text>不限品类，可兑换任意商品</text>
+    </view>
+    <view class='fiveall'>
+      <image src='../../images/wqbimages/Screenshot_2018-10-25-16-40-10_34.png' class='five'></image>
+      <view class='fives'>
+        <text>20元现金券</text>
+        <text>￥20</text>
+      </view>
+      <text>不限品类，可兑换任意商品</text>
+    </view>
+    <view class='fiveall'>
+      <image src='../../images/wqbimages/Screenshot_2018-10-25-16-40-10_35.png' class='five'></image>
+      <view class='fives'>
+        <text>30元现金券</text>
+        <text>￥30</text>
+      </view>
+      <text>不限品类，可兑换任意商品</text>
+    </view>
+    <view class='fiveall'>
+      <image src='../../images/wqbimages/Screenshot_2018-10-25-16-40-10_38.png' class='five'></image>
+      <view class='fives'>
+        <text>50元现金券</text>
+        <text>￥50</text>
+      </view>
+      <text>不限品类，可兑换任意商品</text>
+    </view>
+  </view>
+</view>
+
+</view>
+
