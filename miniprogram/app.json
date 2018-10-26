@@ -1,10 +1,15 @@
 {
   "pages": [
 <<<<<<< HEAD
+<<<<<<< HEAD
     "pages/eatto/eatto",
+=======
+    "pages/pizza/pizza",
+>>>>>>> 76c89e9b0281d1f6245f4595a968fad4196517f8
 =======
 <<<<<<< HEAD
     "pages/giftCard/giftCard",
+>>>>>>> 5c7fe206da50d7edf684c3dc7e1f484dfc0d414f
     "pages/index/index",
     "pages/userConsole/userConsole",
     "pages/storageConsole/storageConsole",
