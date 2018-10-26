@@ -8,7 +8,15 @@
 		"minified": true,
 		"newFeature": true
 	},
+<<<<<<< HEAD
+<<<<<<< HEAD
+	"appid": "wxb610a5b65ae78975",
+=======
+	"appid": "wx6556ebed937121d1",
+>>>>>>> 76c89e9b0281d1f6245f4595a968fad4196517f8
+=======
 	"appid": "wxed8f3a0cd2dd08a7",
+>>>>>>> 5c7fe206da50d7edf684c3dc7e1f484dfc0d414f
 	"projectname": "teamminiPro",
 	"libVersion": "2.2.5",
 	"condition": {

@@ -1,0 +1,46 @@
+<!--miniprogram/pages/eatto/eatto.wxml-->
+<view>
+  <view class='header'>
+    <text class='head'>肯德基礼品卡</text>
+  </view>
+  <view class='scroll'></view>
+  <view class='bigPicture'>
+    <image class='imgs' src='../../images/eatCard/eatCard (2).png '></image>
+    <view class='cardText'>
+      <text></text>
+      <text>肯德基礼品卡</text>
+    </view>
+    <view class='cardArea'>
+      <view class='card'>
+      <image class='imges' src='../../images/eatCard/eatCard (3).png '></image>
+      <view class='para'>
+        <text class='paraone'>50元礼品卡</text>
+        <text class='red'>￥47.5</text>
+        <text class='through'> ￥50</text>
+      </view>
+      <view class='paraTody'>今晚一起看球</view>
+      <view class='bgBottom'></view>
+    </view>
+    <view class='card'>
+      <image class='imges' src='../../images/eatCard/eatCard (4).png  '></image>
+      <view class='para'>
+        <text class='paraone'>100元礼品卡</text>
+        <text class='red'>￥95</text>
+        <text class='through'> ￥100</text>
+      </view>
+      <view class='paraTody'>送给一家人浓浓的心意</view>
+      <view class='bgBottom'></view>
+    </view>
+    <view class='card'>
+      <image class='imges' src='../../images/eatCard/eatCard (1).png '></image>
+      <view class='para'>
+        <text class='paraone'>200元礼品卡</text>
+        <text class='red'>￥190</text>
+        <text class='through'> ￥200</text>
+      </view>
+      <view class='paraTody'>一份心意，送去生日祝福</view>
+      <view class='bgBottom'></view>
+    </view>
+    </view>
+  </view>
+</view>

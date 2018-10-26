@@ -1,8 +1,10 @@
 {
   "pages": [
     "pages/card/card",
-    "pages/cstore/cstore",
-    "pages/giftCard/giftCard"
+    "pages/giftCard/giftCard",
+    "pages/pizza/pizza",
+    "pages/giftCard/giftCard",
+    "pages/cstore/cstore"
   ],
  
   "window": {
