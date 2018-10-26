@@ -1,0 +1,60 @@
+.banner{
+  padding:30rpx
+}
+
+.bg{
+  width: 700rpx;
+  height: 420rpx
+}
+.title{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  margin:0 30rpx;
+  font-size: 10pt;
+}
+.yun{
+  width:50rpx;
+  height:35rpx;
+  margin-right: 30rpx
+}
+.binfen{
+  display: flex;
+  flex-direction: row;
+  margin-left: 35rpx;
+  margin-top: 25rpx;
+  justify-content: space-around;
+  /* border: 1px solid blue; */
+  font-size:8pt; 
+}
+.imgsty{
+  width: 50%;
+}
+.dqimg{
+   width:330rpx;
+   height: 180rpx;
+   margin-bottom: 10rpx;
+}
+.text{
+  color: #343434;
+      margin: 10rpx 0;
+    font-size: 9pt;
+    margin-left: 8rpx
+
+}
+.text1{
+    color: #d73d3d;
+    font-size:7pt;
+}
+.text2{
+    color: #7c7c7c;
+    margin: 10rpx 0;
+    font-size:7pt;
+    text-decoration-line: line-through;
+}
+.text3{
+    color: #7c7c7c;
+    margin: 10rpx 0;
+    font-size:7pt;
+
+}
