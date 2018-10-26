@@ -1,6 +1,7 @@
 {
   "pages": [
     "pages/card/card",
+    "pages/eatto/eatto",
     "pages/giftCard/giftCard",
     "pages/pizza/pizza",
     "pages/giftCard/giftCard",
