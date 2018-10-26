@@ -1,0 +1,66 @@
+/* miniprogram/pages/eatto/eatto.wxss */
+.header{
+  height: 200rpx;
+  /* border:1px solid red; */
+  display: flex;
+  align-items: center;
+}
+.head{
+  padding-left: 20rpx;
+  font-size: 12pt;
+  font-weight: bold;
+}
+.scroll{
+  height: 300rpx;
+}
+.bigPicture{
+  padding: 0 20rpx;
+}
+.imgs{
+  height: 400rpx;
+  width: 100%;
+}
+.cardText{
+  display: flex;
+  align-items: center;
+  padding: 20rpx 0;
+}
+.card{
+  width: 48%;
+  font-size: 30rpx;
+  margin-bottom: 20rpx;
+}
+.imges{
+  height: 200rpx;
+  width: 100%;
+
+}
+.para{
+  display: flex;
+}
+.paraone{
+  flex: 1
+}
+.paraTody{
+  width: 100%;
+  text-align: center;
+}
+.bgBottom{
+  height: 5rpx;
+  margin-top:10rpx;
+  background-color: gray;
+  box-shadow: 5rpx 5rpx 5rpx gray;
+}
+.red{
+  color: red;
+}
+.through{
+  text-decoration: line-through;
+  font-size: 26rpx;
+  margin-left: 20rpx;
+}
+.cardArea{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

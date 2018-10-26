@@ -1,0 +1,72 @@
+<!-- miniprogram/pages/pizza/pizza.wxml -->
+<view class="mian">
+
+    <view class="head">
+        <!-- <view>
+            <image class="tite1" src="../../images/pizza/imgages_06.gif" ></image>
+            <text class="zi">DQ冰雪皇后</text>
+        </view>
+        <view>
+            <image class="tite2" src="../../images/pizza/imgages_08.gif"></image>
+            <text class="zi">肯德基</text>
+        </view>
+        <view>
+            <image class="tite3" src="../../images/pizza/imgages_03.gif"></image>
+            <text class="zi">必胜客</text>
+        </view>
+        <view>
+            <image class="tite2" src="../../images/pizza/imgages_11.gif"></image>
+            <text class="zi">全家</text>
+        </view>
+        <view>
+            <image class="tite2" src="../../images/pizza/imgages_13.gif"></image>
+            <text class="zi">广州天福</text>
+        </view> -->
+    </view>
+
+    <!-- 卡片 -->
+    <view class="all">
+        <view class="imgs">
+            <image class="imgs1" src="../../images/pizza/imgages_28.gif"></image>
+        </view>
+        <view class="ka">
+            <image class="img2" src="../../images/pizza/imgages_25.gif"></image>
+            <text>必胜客必胜卡</text>
+        </view>
+        <view class="text1">
+            <view class="lefes">
+                <image class="img3" src="../../images/pizza/imgages_21.gif"></image>
+                <view class="all1">
+                    <text class="qian">50元必胜卡</text>
+                    <text class="qian1">￥47.5</text>
+                </view>
+                <view>
+                    <text class="bei">世界杯，今晚约起！</text>
+                </view>
+            </view>
+            <view class="lefes">
+                <image class="img3" src="../../images/pizza/imgages_30.gif"></image>
+                <view class="all1">
+                    <text class="qian">100元必胜卡</text>
+                    <text class="qian1">￥95</text>
+                </view>
+                <view>
+                    <text class="bei">祝你节日快乐</text>
+                </view>
+            </view>
+        </view>
+
+        <view class="text2">
+            <view class="lefes">
+                <image class="img3" src="../../images/pizza/imgages_34.gif"></image>
+                <view class="all1">
+                    <text class="qian">200元必胜卡</text>
+                    <text class="qian1">￥190</text>
+                </view>
+                <view>
+                    <text class="bei">走，请你吃PiZZA</text>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

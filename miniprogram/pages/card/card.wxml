@@ -1,0 +1,75 @@
+<view>
+  <view class='banner'>
+    <image class='bg' src='../../images/cardimg/card.png'></image>
+  </view>
+  <view class='title'>
+    <image class='yun' src='../../images/cardimg/cardyun.png'>
+    </image>
+    <text>DQ电子缤纷卡</text>
+  </view>
+  <view class='binfen'>
+    <view class='imgsty'>
+      <image class="dqimg" src='../../images/cardimg/carddq.png'></image>
+      <view>
+        <text class='text'>20元电子缤纷···   </text>
+        <text class='text1'>   ￥18   </text>
+        <text class='text2'>   ￥20   </text>
+      </view>
+      <view class='text3'>
+        可直接抵扣等值产品，多次使用
+      </view>
+    </view>
+    <view class='imgsty'>
+      <image class="dqimg" src='../../images/cardimg/carddq.png'></image>
+      <view>
+        <text class='text'>30元电子缤纷···   </text>
+        <text class='text1'>   ￥27   </text>
+        <text class='text2'>   ￥30   </text>
+      </view>
+      <view class='text3'>
+        可直接抵扣等值产品，多次使用
+      </view>
+    </view>
+  </view>
+
+   <view class='binfen'>
+    <view class='imgsty'>
+      <image class="dqimg" src='../../images/cardimg/carddq.png'></image>
+      <view>
+        <text class='text'>50元电子缤纷···   </text>
+        <text class='text1'>   ￥45   </text>
+        <text class='text2'>   ￥50   </text>
+      </view>
+      <view class='text3'>
+        可直接抵扣等值产品，多次使用
+      </view>
+    </view>
+    <view class='imgsty'>
+      <image class="dqimg" src='../../images/cardimg/carddq1.png'></image>
+      <view>
+        <text class='text'>100元电子缤···   </text>
+        <text class='text1'>   ￥90   </text>
+        <text class='text2'>   ￥100   </text>
+      </view>
+      <view class='text3'>
+        可直接抵扣等值产品，多次使用
+      </view>
+    </view>
+  </view>
+   <view class='binfen'>
+    <view class='imgsty'>
+      <image class="dqimg" src='../../images/cardimg/carddq2.png'></image>
+      <view>
+        <text class='text'>200元电子缤···   </text>
+        <text class='text1'>   ￥180  </text>
+        <text class='text2'>   ￥200   </text>
+      </view>
+      <view class='text3'>
+        可直接抵扣等值产品，多次使用
+      </view>
+    </view>
+    <view class='imgsty'>
+    
+    </view>
+  </view>
+</view>
